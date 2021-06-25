@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Philibel
 - 👀 I’m interested in Zen Cart language packs: Dutch, French, German
-- 🌱 I’m currently learning how to use GitHub and coding. The latter is a work is progress as the more you learn, the more you realize you still need to learn more.
 - 💞️ I’m looking to collaborate on Zen Cart
 - 📫 How to reach me: https://www.zen-cart.com/member.php?53200-Philibel
 
